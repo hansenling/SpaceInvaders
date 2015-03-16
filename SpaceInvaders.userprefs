@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Maze\Assets\Scripts\PlayerAttributes.cs">
+    <Files>
+      <File FileName="..\Maze\Assets\Scripts\Teleporter.cs" Line="5" Column="1" />
+      <File FileName="..\Maze\Assets\Scripts\trapActivator.cs" Line="19" Column="4" />
+      <File FileName="..\Maze\Assets\Scripts\trap.cs" Line="38" Column="4" />
+      <File FileName="..\Maze\Assets\Standard Assets\Scripts\rotateWall.cs" Line="4" Column="42" />
+      <File FileName="..\Maze\Assets\Scripts\Key.cs" Line="11" Column="40" />
+      <File FileName="..\Maze\Assets\Scripts\keyHole.cs" Line="12" Column="18" />
+      <File FileName="..\Maze\Assets\Scripts\PlayerAttributes.cs" Line="60" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
